@@ -6,6 +6,7 @@ Welcome my github. This is where I share the projects I have done.
 >
 >[Portfolio Sale Report](https://tinyurl.com/huuvinh994)
 >
+>[Portfolio Marketing Report](https://app.powerbi.com/view?r=eyJrIjoiNWFhODFlNTItZWRjNC00M2RjLWEyN2EtNGZiYzVkZGM3MzY1IiwidCI6IjMzOTcyM2I5LWEyY2QtNGE3MC1iMWNjLTI5Nzc5NzFlYmVmOCIsImMiOjEwfQ%3D%3D)
 Nice to meet you, thank you. See you soon.
 
 
