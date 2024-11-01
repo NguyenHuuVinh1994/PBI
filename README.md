@@ -15,9 +15,9 @@ Academy wants to advertise to students or office workers to invite them to atten
 
 ### Data source
 The dataset includes 3 csv files:
-- Customer.csv
-- AW Campaign.csv
-- FB Campaign.csv
+- Customer.xlsx
+- AW Campaign.xlsx
+- FB Campaign.xlsx
 
 ### Tools
 - SQL: Cleaning data
