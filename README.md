@@ -1,57 +1,41 @@
-# Academy Marketing Analysis
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Steps to clean data](#steps-to-clean-data)
-- [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Results](#results)
-- [Recommendations](#recommendations)
+# DASHBOARD PBi
+## Intro
 
-## Materials
-- [Slide](https://sites.google.com/view/osadasale/trang-ch%E1%BB%A7)
-- [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWFhODFlNTItZWRjNC00M2RjLWEyN2EtNGZiYzVkZGM3MzY1IiwidCI6IjMzOTcyM2I5LWEyY2QtNGE3MC1iMWNjLTI5Nzc5NzFlYmVmOCIsImMiOjEwfQ%3D%3D)
+Hello, I hope you're having a good day!
 
-### Project Overview
-Academy wants to advertise to students or office workers to invite them to attend a webinar or register for a course if they find it suitable.
+When I started this job, I was immediately faced with data that had never truly been explored or cleaned, and that was a really challenging time.
+It took me about two months to become familiar with the data and transform it into useful information.
+Below is an overview of what I was able to accomplish.
+- [Sales Overview](#sales-overview)
+- [Products Overview](#products-overview)
+- [Sales Performance](#sales-performance)
+- [Products Performance](#products-performance)
 
-### Data source
-The dataset includes 3 csv files:
-- Customer.xlsx
-- AW Campaign.xlsx
-- FB Campaign.xlsx
 
-### Tools
-- SQL: Cleaning data
-- PBI: Model + Build Dashboard
+### Sales Overview
+<img width="1639" height="921" alt="Sales Overview" src="https://github.com/user-attachments/assets/bb68daef-a440-4d87-a2b4-56ee5d7de28a" />  <br><br>
+In this **Sales Overview** section, I've provided a comprehensive picture of the retail business using key performance indicators.
 
-### Steps to clean data
-1. Data Loading and Inspection.
-2. Handling Missing values.
-3. Data cleaning and formatting.
-4. Data modeling.
-![Screenshot 2024-11-01 125925](https://github.com/user-attachments/assets/b3f378c9-dfb0-497d-893c-e3395f93343d)
+You can quickly view these metrics year-over-year, by month, by store, and by product information. This data allows users to quickly identify where the most significant changes are originating from.
 
-### Exploratory Data Analysis
-Answering some questions such as:
-- Cost and revenue after the campaign?
-- What is the average conversion rate?
-- How effective is each channel?
-### Results
-![Screenshot 2024-11-01 121335](https://github.com/user-attachments/assets/813f3f27-6140-439c-9678-a2d26fdd6a01)
-- The cost versus the profit from the two main distribution channels, Facebook and Ads, is very good.
-![Screenshot 2024-11-01 132812](https://github.com/user-attachments/assets/6e6c9e5c-2aed-46a9-a919-2b6e8d8d8c82)
-- The conversion rate at 1% - 3% daily and gross ranging from 2M to 3.5M each day is an impressive figure.
-![Screenshot 2024-11-01 121355](https://github.com/user-attachments/assets/7cd0d916-ed40-4154-b493-dc074ec1b92e)
-- It can be seen that with the cost and revenue for a single conversion like this, the resulting efficiency is up to 500%.
-![Screenshot 2024-11-01 133632](https://github.com/user-attachments/assets/66a444cd-bc92-4853-af11-e1efb1c22253)
-- The total cost for ads is higher than for FB, but the revenue generated is the same. Therefore, we will analyze based on metrics such as impressions, clicks, and conversions.
-![Screenshot 2024-11-01 133929](https://github.com/user-attachments/assets/37412f4c-3a7b-405e-9bfc-9ed1ae1510cd)
-- Impressions on ads are four times higher than on FB, and the number of clicks is also twice as high, but the conversions are almost the same. Therefore, we will look further into the conversion rate.
-![Screenshot 2024-11-01 133914](https://github.com/user-attachments/assets/19fc6f18-4657-4d7e-8a25-30b33c3a17a6)
-- So the conversion rate and click-through rate of FB are superior to ads, indicating that the FB channel provides better profitability.
+### Products Overview
+<img width="1646" height="913" alt="Products Overview" src="https://github.com/user-attachments/assets/08620b69-6ae4-4f69-b59c-888409b972b2" />  <br><br>
+Next, users can go to the **Products Overview** dashboard to check inventory status using the Months On Hand metric. They can also see how current stock levels compare to sales. Additionally, revenue comparisons with the previous year will help users understand if current inventory levels are impacting present revenue.
 
-### Recommendations
-- Additional information can be expanded by collecting data on age, occupation, and gender to identify the target audience for the courses. This will help in formulating policies and organizing sessions that are tailored to the specific audience.
-- In case the revenue from ads decreases, we can increase the budget for the FB channel to maintain stable revenue while finding another media channel to replace it.
-- Finally, with the actual profits, the academy can organize offline sharing sessions or hold competitions to enhance the influence of the academy's brand.
+### Sales Performance
+<img width="1649" height="921" alt="Sales Performance" src="https://github.com/user-attachments/assets/7da4740e-3f5a-46ea-87ca-8ca516ccf6f2" />  <br><br>
+To delve deeper, users can navigate to the **Sales Performance** dashboard. Here, they can analyze KPI achievement, customer conversion rates by day and by store. There's also a detailed table below with more specific metrics for each store, providing a precise picture of what's happening at every location.
 
-[![](https://visitcount.itsvg.in/api?id=nguyenhuuvinh1994&icon=0&color=0)](https://visitcount.itsvg.in)
+To cater to users who prefer numerical data over visuals, I've also designed an additional table with daily information for each store, allowing for flexible switching.
+
+### Products Performance
+<img width="1622" height="920" alt="Products Performance" src="https://github.com/user-attachments/assets/88a50fda-e274-4862-92a7-b50cfea68d73" />
+\n The final section of my overview is **Product Performance**. By this point, users will have identified the main reasons for changes. To provide more precision, I'll offer a clearer understanding of the strategy at each store. I've created a Top 10 Products table combined with a filter, allowing users to discover popular products within a store. This can then inform promotions or planning to introduce related products to that store.
+
+With specific metrics like the quantity sold and weekly revenue for each product, users can determine if "this is a trending product or truly a best-seller in the store."
+
+### Closing Remarks
+Actually, these are just four basic slides from the results I produced. There are even more impressive analyses for deeper insights, but I'm unable to share too much.  
+Sincerely, thank you for reading.
+
+Thank you very much.
